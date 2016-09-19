@@ -1,0 +1,26 @@
+{
+  "name": "faker-uk",
+  "version": "1.0.0",
+  "description": "Lorem ipsum alternative in Ukrainian",
+  "main": "faker-uk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generator",
+    "ipsum",
+    "lorem",
+    "random",
+    "text"
+  ],
+  "author": "makepost <makepost@firemail.cc>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makepost/faker-uk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makepost/faker-uk/issues"
+  },
+  "homepage": "https://github.com/makepost/faker-uk#readme"
+}
